@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/isdpbatch2022/static/css/main.ada3cebc.css",
-    "main.js": "/isdpbatch2022/static/js/main.f45464c4.js",
+    "main.js": "/isdpbatch2022/static/js/main.b73da588.js",
     "index.html": "/isdpbatch2022/index.html",
     "main.ada3cebc.css.map": "/isdpbatch2022/static/css/main.ada3cebc.css.map",
-    "main.f45464c4.js.map": "/isdpbatch2022/static/js/main.f45464c4.js.map"
+    "main.b73da588.js.map": "/isdpbatch2022/static/js/main.b73da588.js.map"
   },
   "entrypoints": [
     "static/css/main.ada3cebc.css",
-    "static/js/main.f45464c4.js"
+    "static/js/main.b73da588.js"
   ]
 }
